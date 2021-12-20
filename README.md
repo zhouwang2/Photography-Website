@@ -8,4 +8,4 @@ Feel free to email me for feedback zhouwang2@yahoo.com.au
 
 Much appreciated 😃
 
-I'll be updating the website every so often (adding pics etc)
+The logo is from google

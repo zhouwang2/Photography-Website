@@ -1,6 +1,6 @@
 # Photography-Website
 
-This is the first personal project I've created 😂 This is created using Html and Css
+This is the first personal project I've created 😂
 
 Photography website: https://zwpics2.netlify.app
 
